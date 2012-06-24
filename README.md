@@ -6,9 +6,13 @@ A estrutura de pacotes está dividida da seguinte forma:
 
 
 nome_pattern
+
 	|
+	
 	|--- anti-pattern  (Exemplo sem a utilização do pattern)
+	
 	|
+	
    	|--- pattern       (Exemplo com a utilização do pattern)
  
 
